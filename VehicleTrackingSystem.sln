@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTrackingSystem.Api", "VehicleTrackingSystem.Api\VehicleTrackingSystem.Api.csproj", "{028D5961-08FD-4E83-A227-5C69B68CBDAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTrackingSystem.Bal", "VehicleTrackingSystem.Bal\VehicleTrackingSystem.Bal.csproj", "{1152F3F4-3FB0-4788-B1D5-255373817360}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTrackingSystem.Bal.Tests", "VehicleTrackingSystem.Bal.Tests\VehicleTrackingSystem.Bal.Tests.csproj", "{81C76311-B6F3-4814-B164-445D36016F8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTrackingSystem.Dal", "VehicleTrackingSystem.Dal\VehicleTrackingSystem.Dal.csproj", "{F67FEDE8-D0C2-4636-BE15-9848BECC7E96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTrackingSystem.Core", "VehicleTrackingSystem.Core\VehicleTrackingSystem.Core.csproj", "{77BFA3C6-06C9-4266-8166-CE37CD8533FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTrackingSystem.Core.Tests", "VehicleTrackingSystem.Core.Tests\VehicleTrackingSystem.Core.Tests.csproj", "{D2264116-1BA2-4263-AD59-C84F81DFE575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028D5961-08FD-4E83-A227-5C69B68CBDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028D5961-08FD-4E83-A227-5C69B68CBDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028D5961-08FD-4E83-A227-5C69B68CBDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028D5961-08FD-4E83-A227-5C69B68CBDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1152F3F4-3FB0-4788-B1D5-255373817360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1152F3F4-3FB0-4788-B1D5-255373817360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1152F3F4-3FB0-4788-B1D5-255373817360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1152F3F4-3FB0-4788-B1D5-255373817360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C76311-B6F3-4814-B164-445D36016F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C76311-B6F3-4814-B164-445D36016F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C76311-B6F3-4814-B164-445D36016F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C76311-B6F3-4814-B164-445D36016F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67FEDE8-D0C2-4636-BE15-9848BECC7E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67FEDE8-D0C2-4636-BE15-9848BECC7E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67FEDE8-D0C2-4636-BE15-9848BECC7E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67FEDE8-D0C2-4636-BE15-9848BECC7E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BFA3C6-06C9-4266-8166-CE37CD8533FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BFA3C6-06C9-4266-8166-CE37CD8533FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BFA3C6-06C9-4266-8166-CE37CD8533FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BFA3C6-06C9-4266-8166-CE37CD8533FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2264116-1BA2-4263-AD59-C84F81DFE575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2264116-1BA2-4263-AD59-C84F81DFE575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2264116-1BA2-4263-AD59-C84F81DFE575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2264116-1BA2-4263-AD59-C84F81DFE575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFD7D884-690F-4910-B839-9E066041E6F7}
+	EndGlobalSection
+EndGlobal
